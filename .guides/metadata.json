@@ -41,6 +41,11 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "#terminal: clear",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "1-panel-tree",
@@ -57,7 +62,7 @@
  "theme": "light",
  "scripts": [],
  "lexikonTopic": "",
- "suppressPageNumbering": false,
+ "suppressPageNumbering": true,
  "useSubmitButtons": true,
  "useMarkAsComplete": true,
  "hideMenu": false,
