@@ -1,0 +1,49 @@
+{
+	"source": {
+		"name": "rununit",
+		"showName": false,
+		"instructions": "Click the check it button to run the unit test.",
+		"command": "sh .guides/secure/runtests.sh",
+		"timeoutSeconds": 40,
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 2,
+		"arePartialPointsAllowed": true,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [
+				"main.cpp",
+				"whattotest.cpp"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"panelNumber": 0,
+					"content": "main.cpp"
+				},
+				{
+					"type": "file",
+					"panelNumber": 0,
+					"content": "whattotest.cpp"
+				},
+				{
+					"type": "terminal",
+					"panelNumber": 1,
+					"content": "clear"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "test-3594055725",
+	"type": "test"
+}

@@ -1,0 +1,34 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "main.cpp"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "whattotest.cpp"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#terminal: clear"
+		}
+	],
+	"id": "f7d1c777-09c3-4129-7b5f-5ae9fa23199d",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "C++ Unit testing",
+	"type": "page"
+}
