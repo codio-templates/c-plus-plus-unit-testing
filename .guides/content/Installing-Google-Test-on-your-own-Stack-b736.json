@@ -4,20 +4,19 @@
 	"contentType": "markdown",
 	"files": [
 		{
-			"action": "close",
-			"path": "#tabs"
+			"path": "#tabs",
+			"action": "close"
 		},
 		{
-			"action": "open",
+			"path": "#terminal: clear",
 			"panel": 0,
-			"path": "#terminal: clear"
+			"action": "open"
 		}
 	],
 	"id": "b7369cf5-33a4-dac4-b27c-364a5e9b4b1e",
-	"layout": "1-panel-tree",
+	"layout": "2-panels-tree",
 	"learningObjectives": "",
 	"path": [],
-	"reset": [],
 	"teacherOnly": false,
 	"title": "Installing Google Test on your own Stack",
 	"type": "page"

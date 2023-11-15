@@ -17,7 +17,7 @@ As a minimum, we suggest you start with our [certified C++ stack](https://codio.
 `sudo apt-get install cmake`
 `sudo cmake ..`
 `sudo make`
-`sudo cp libgtest* /usr/lib/`
+`sudo cp lib/libgtest* /usr/lib/`
 `cd ..`
 `sudo rm -rf build`
 
